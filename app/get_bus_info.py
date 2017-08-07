@@ -1,4 +1,6 @@
-
+### MTA Bus app
+### Developed by Jonathan Geis for the course Programming with Python taught
+### by Professor Mike Rossetti at NYU
 
 import json
 import urllib
